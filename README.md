@@ -11,6 +11,8 @@ The full set of PracticalSeries publications is available at [practicalseries.co
 ## How to use this repository
 This repository is a worked example demonstrating how to build a version control project using Git and GitHub from within the Brackets text editor.
 This repository is intended to be used with the accompanying documentation [practicalseries Git and GitHub](http://practicalseries.com/0021-git-vcs/index.html "Practical Series - Git and GitHub").
+ 
+There is a version numbering document within the /docs folder that explains how version numbering can be implemented on a GitHub project.
 
 ## Website contents
 This site contains the following pages:
