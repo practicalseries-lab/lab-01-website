@@ -1,5 +1,0 @@
-This website has the following pages
-    index.html
-    01-intro.html
-    02-about.html
-    03-contact.html
