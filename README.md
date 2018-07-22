@@ -14,6 +14,9 @@ This repository is intended to be used with the accompanying documentation [prac
  
 There is a version numbering document within the /docs folder that explains how version numbering can be implemented on a GitHub project.
 
+## Getting started
+Just clone the repository to edit in your own profile
+
 ## Website contents
 This site contains the following pages:
 * index.html
