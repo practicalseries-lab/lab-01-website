@@ -7,7 +7,7 @@
 
 html {
     background-color: #fbfaf6;      /* Set cream coloured page background */
-    color: #d6d6d6;
+    color: #404030;
     font-family: serif;
     font-size: 26px;
     text-rendering: optimizeLegibility;
@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5, h6 {            /* set standard headings */
     font-size: 3rem;
     padding: 2rem 5rem 2rem 5rem;
 }
+
 h3 { font-size: 2.5rem; color: #0000ff; }
 
 .cover-fig {                        /* holder for cover image */
